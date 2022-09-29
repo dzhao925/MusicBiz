@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\study\之前学期\WEB524\W2022A6DZ\W2022A6DZ\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\study\之前学期\WEB524\W2022A6DZ\W2022A6DZ\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\study\之前学期\WEB524\W2022A6DZ\W2022A6DZ\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
