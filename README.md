@@ -5,15 +5,9 @@
 - This is an app that practices the knowledge of ASP.NET MVC, Persistent Store, Security, Conditional menus, load initial data, deploy to the Microsoft Azure platform, rich text input, and handle non-text media types.
 
 # How to use
-- Test accounts:
-	exec@example.com
+- Test accounts: exec@example.com / coord@example.com /clerk@example.com
 
-	coord@example.com
-
-	clerk@example.com
-
-- Test password:
-	Password123!
+- Test password: Password123!
 
 A user with an Executive role claim can add, edit, and delete an artist. 
 A user with a Coordinator role claim can add, edit, and delete an album. 
