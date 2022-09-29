@@ -19,7 +19,10 @@ All other kinds of authenticated users can read artist, album, and track data.
 Anonymous users cannot work with artist, album, and track data.
 
 ![](https://github.com/dzhao925/MusicBiz/blob/main/artists.png)
+
 ![](https://github.com/dzhao925/MusicBiz/blob/main/artist detail.png)
+
 ![](https://github.com/dzhao925/MusicBiz/blob/main/album detail.png)
+
 ![](https://github.com/dzhao925/MusicBiz/blob/main/track detail.png)
 
