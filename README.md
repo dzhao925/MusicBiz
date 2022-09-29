@@ -20,9 +20,9 @@ Anonymous users cannot work with artist, album, and track data.
 
 ![](https://github.com/dzhao925/MusicBiz/blob/main/artists.png)
 
-![](https://github.com/dzhao925/MusicBiz/blob/main/artist detail.png)
+![](https://github.com/dzhao925/MusicBiz/blob/main/artist%20detail.png)
 
-![](https://github.com/dzhao925/MusicBiz/blob/main/album detail.png)
+![](https://github.com/dzhao925/MusicBiz/blob/main/album%20detail.png)
 
-![](https://github.com/dzhao925/MusicBiz/blob/main/track detail.png)
+![](https://github.com/dzhao925/MusicBiz/blob/main/track%20detail.png)
 
