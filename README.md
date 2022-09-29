@@ -6,14 +6,14 @@
 
 # How to use
 - Test accounts:
-exec@example.com
+	exec@example.com
 
-coord@example.com
+	coord@example.com
 
-clerk@example.com
+	clerk@example.com
 
 - Test password:
-Password123!
+	Password123!
 
 A user with an Executive role claim can add, edit, and delete an artist. 
 A user with a Coordinator role claim can add, edit, and delete an album. 
